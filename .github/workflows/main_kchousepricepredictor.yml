@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'KCHousePricePredictor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7D54BBEC88C4431A08DBA73AE1A5B4F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD42EC42CFC94464BDF00F8DD97FD206 }}
